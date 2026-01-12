@@ -9,7 +9,7 @@ Quick-commerce companies expanding in India face a critical resource allocation 
 
 **Key Finding:** Smaller households (1-2 members) show **20-35% higher online purchase adoption** than larger households, but internet access creates a **56 percentage point adoption gap**. This suggests micro-market targeting (bachelor-heavy neighborhoods near IT parks, universities) outperforms uniform geographic expansion.
 
-**Business Impact:** Enables three critical decisions: (1) market prioritization that saves ₹15-20 Cr in avoided low-ROI expansion, (2) neighborhood-specific merchandising that increases basket size by 15%, and (3) feature prioritization for different household segments with 25% conversion lift potential.
+**Business Impact:** Enables three critical decisions: (1) market prioritization that avoids low-ROI expansion spend, (2) neighborhood-specific merchandising that can lift basket size, and (3) feature prioritization for different household segments with meaningful conversion improvement potential.
 
 ---
 
@@ -20,7 +20,7 @@ Quick-commerce companies expanding in India face a critical resource allocation 
 
 **Why It Matters:** Not all neighborhoods have equal revenue potential. Areas near IT parks, universities, and co-living spaces naturally convert better.
 
-**Product Decision:** Open dark stores within 2km of high bachelor-density areas first. Launch "Quick Singles" category with single-serve meals, small packs, ready-to-eat items. Expected impact: 25% higher conversion rates in targeted micro-markets.
+**Product Decision:** Prioritize pilots for dark stores within ~2km of high bachelor-density areas. Test a "Quick Singles" category with single-serve meals, small packs, ready-to-eat items. Likely to improve conversion in targeted micro-markets.
 
 ---
 
@@ -29,7 +29,7 @@ Quick-commerce companies expanding in India face a critical resource allocation 
 
 **Why It Matters:** Household demographics only matter *after* internet availability. Expanding to low-internet areas yields poor ROI regardless of household composition.
 
-**Product Decision:** Halt expansion in bottom-10 internet penetration states. Redirect capital to tier-2 cities in high-internet states. Expected impact: 40% reduction in CAC through better targeting, ₹15-20 Cr saved in avoided capex.
+**Product Decision:** Pause expansion in bottom-10 internet penetration states. Redirect test budget to tier-2 cities in high-internet states. Expected effect: lower CAC through better targeting and reduced capex waste.
 
 ---
 
@@ -38,7 +38,7 @@ Quick-commerce companies expanding in India face a critical resource allocation 
 
 **Why It Matters:** One-size-fits-all merchandising underserves both segments. Dark store inventory should vary by neighborhood household composition.
 
-**Product Decision:** Customize inventory by pin code — bachelor-heavy areas get more ready-to-eat and convenience SKUs, family-heavy areas get bulk packs. A/B test "Singles Essentials" shelf placement. Expected impact: 15% basket size increase, 30% reduction in stockouts.
+**Product Decision:** Customize inventory by pin code — bachelor-heavy areas get more ready-to-eat and convenience SKUs, family-heavy areas get bulk packs. A/B test "Singles Essentials" shelf placement. Expect larger baskets and fewer stockouts after tuning via experiments.
 
 ---
 
@@ -47,7 +47,7 @@ Quick-commerce companies expanding in India face a critical resource allocation 
 
 **Why It Matters:** Spreading expansion budget evenly dilutes impact. These states have proven demand + infrastructure.
 
-**Product Decision:** Phase expansion — aggressive growth in Tier-1 states, selective pilots in Tier-2, monitor-only for Tier-3. Use savings from paused low-ROI markets to add micro dark stores in high-potential neighborhoods. Expected impact: 40-50% reduction in burn rate vs. uniform expansion.
+**Product Decision:** Phase expansion — double-down in high-penetration states, run selective pilots in Tier-2, monitor-only for Tier-3. Use savings from paused low-ROI markets to add micro dark stores in high-potential neighborhoods. Expected outcome: leaner burn vs. uniform expansion.
 
 ---
 
@@ -56,7 +56,7 @@ Quick-commerce companies expanding in India face a critical resource allocation 
 
 **Why It Matters:** Traditional metro → tier-2 → rural sequencing is correct, but tier-2 timing can be accelerated in high-internet areas with bachelor concentrations.
 
-**Product Decision:** Selectively enter tier-2 cities (Jaipur, Chandigarh, Kochi, Indore) that have internet + bachelor neighborhoods. Test hub-and-spoke logistics model. Expected impact: 30% addressable market expansion while maintaining unit economics.
+**Product Decision:** Selectively enter tier-2 cities (Jaipur, Chandigarh, Kochi, Indore) that have internet + bachelor neighborhoods. Test hub-and-spoke logistics model. Goal: expand addressable market while maintaining unit economics through piloting.
 
 ---
 
@@ -80,8 +80,8 @@ Quick-commerce companies expanding in India face a critical resource allocation 
 
 ### Strategic Documents
 
-- **[Product Memo](outputs/product_memo.md)** — Complete analysis with market expansion strategy, merchandising recommendations, and feature prioritization (2 pages)
-- **[Results Summary](outputs/RESULTS_SUMMARY.md)** — One-page executive brief for product leadership
+- Optional: **[Product Memo](outputs/product_memo.md)** — Complete analysis with market expansion strategy, merchandising recommendations, and feature prioritization (2 pages)
+- Optional: **[Results Summary](outputs/RESULTS_SUMMARY.md)** — One-page executive brief for product leadership
 
 ---
 
@@ -118,21 +118,21 @@ Quick-commerce companies expanding in India face a critical resource allocation 
 
 ## Recommendations
 
-### Immediate Actions (Next 90 Days)
+### Near-Term Pilots (Next 90 Days)
 
-1. **Halt Low-Internet State Expansion** — Pause new dark stores in bottom-10 internet penetration states. Saves ₹15-20 Cr capex, redeploy to tier-2 cities in high-internet states.
+1. **Pause Low-Internet State Expansion** — Pause new dark stores in bottom-10 internet penetration states. Redeploy test budget to tier-2 cities in high-internet states to avoid low-ROI capex.
 
-2. **Launch "Quick Singles" Pilot** — Test curated 500-800 SKU category for 1-2 person households in 5 bachelor-heavy neighborhoods (Koramangala, Gurgaon, Whitefield, Powai, Indiranagar). Investment: ₹2-3 Cr. Success metric: 25% conversion lift.
+2. **Launch "Quick Singles" Pilot** — Test a curated 500-800 SKU category for 1-2 person households in 5 bachelor-heavy neighborhoods (Koramangala, Gurgaon, Whitefield, Powai, Indiranagar). Keep budget small and track conversion improvement and repeat usage.
 
-3. **Geo-Segment Inventory** — Customize dark store inventory by pin code household composition. Use Census + order data to classify "bachelor-heavy" vs "family-heavy". Expected: 15% basket increase, 30% fewer stockouts.
+3. **Geo-Segment Inventory** — Customize dark store inventory by pin code household composition. Use Census + order data to classify "bachelor-heavy" vs "family-heavy". Expect larger baskets and fewer stockouts after experimentation.
 
 ### Market Prioritization Framework
 
-**Tier 1 (Expand Aggressively):** Maharashtra, Tamil Nadu, Haryana, Himachal Pradesh, West Bengal, Karnataka, Delhi, Kerala
+**Tier 1 (Expand Aggressively):** High-penetration metros/states (e.g., Maharashtra, Karnataka, Tamil Nadu, Delhi, Kerala)
 
-**Tier 2 (Selective Pilots):** Uttarakhand, Punjab, Rajasthan, Telangana, Chhattisgarh, Gujarat, Assam, Chandigarh, Puducherry, Goa
+**Tier 2 (Selective Pilots):** Mixed-penetration states and union territories where targeted city pilots make sense (e.g., Haryana, West Bengal, Telangana, Gujarat, Chandigarh)
 
-**Tier 3 (Monitor Only):** Madhya Pradesh, Manipur, Arunachal Pradesh, Bihar, Jharkhand, Odisha — wait for internet infrastructure
+**Tier 3 (Monitor Only):** Lower-penetration states; wait for internet infrastructure to improve (e.g., Madhya Pradesh, Odisha, Bihar cluster)
 
 ---
 
@@ -162,7 +162,7 @@ python export_charts.py  # Generate PNG visualizations
 
 ## About This Project
 
-This is a product discovery case study demonstrating data-informed decision-making for quick-commerce expansion. Created to showcase:
+This is a product discovery case study demonstrating data-informed decision-making for quick-commerce expansion. This project demonstrates:
 - Structured problem-solving for ambiguous product questions
 - Translation of data analysis into actionable product strategy
 - Understanding of trade-offs, assumptions, and validation requirements
